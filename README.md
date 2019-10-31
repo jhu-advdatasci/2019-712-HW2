@@ -1,4 +1,4 @@
-# Homework 1 (712)
+# Homework 2 (712)
 
 This homework is due **Friday November 22, 2019 at 11:59 PM**. 
 
